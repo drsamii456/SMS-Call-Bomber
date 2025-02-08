@@ -3,12 +3,8 @@
 ⚠️ **Use it responsibly!** This project is designed for educational and testing purposes only.  
 
 ---
-## 🌍 Select Language | **انتخاب زبان**
-[🇬🇧 English](#english-version) | [🇮🇷 فارسی](#نسخه-فارسی)
 
----
-
-## <a name="english-version"></a> 🇬🇧 **English Version**
+## 🇬🇧 **English Version**
 <details>
   <summary>🔹 Click to expand the English installation guide</summary>
 
@@ -54,7 +50,7 @@ Make sure to enter phone numbers in the correct format before pressing **Enter**
 
 ---
 
-## <a name="نسخه-فارسی"></a> 🇮🇷 **نسخه فارسی**
+## 🇮🇷 **نسخه فارسی**
 <details>
   <summary>🔹 کلیک کنید تا راهنمای نصب فارسی را ببینید</summary>
 
