@@ -1,7 +1,13 @@
-# 📲 SMS-Call-Bomber  
+# 📲 SMS-Call-Bomber  💣
 🚀 **Free SMS & Call Bomber for Testing Purposes**  
 ⚠️ **Use it responsibly!** This project is designed for educational and testing purposes only.  
+A free SMS and call bo
 
+💡 If you use or modify this project, please give proper credit.
+
+⚠️ **Press Ctrl + C to stop the program**. 🛑
+
+⚠️**لطفا Ctrl + C را فشار دهید تا برنامه متوقف شود** 🛑
 ---
 
 ## 🇬🇧 **English Version**
