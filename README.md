@@ -1,13 +1,7 @@
-# 📲 SMS-Call-Bomber  💣
+# 📲 SMS-Call-Bomber  
 🚀 **Free SMS & Call Bomber for Testing Purposes**  
 ⚠️ **Use it responsibly!** This project is designed for educational and testing purposes only.  
-A free SMS and call bo
 
-💡 If you use or modify this project, please give proper credit.
-
-⚠️ **Press Ctrl + C to stop the program**. 🛑
-
-⚠️**لطفا Ctrl + C را فشار دهید تا برنامه متوقف شود** 🛑
 ---
 
 ## 🇬🇧 **English Version**
@@ -25,7 +19,7 @@ apt update && apt upgrade -y
 ☑️ This command updates everything automatically.  
 
 ### 📦 Step 2: Install Required Packages  
-Now, install the necessary dependencies:  
+Install the necessary dependencies:  
 ```bash
 apt install python3 git tor -y
 ```
@@ -38,10 +32,24 @@ pip install requests
 ```
 ☑️ This installs the **requests** library for Python.  
 
-### 🚀 Step 4: Run the SMS-Call-Bomber  
+### 📥 Step 4: Clone the Project  
+Download the project files using the following command:  
+```bash
+git clone https://github.com/drsamii456/SMS-Call-Bomber.git
+```
+☑️ This command will **download the project** into your server.  
+
+### 📂 Step 5: Navigate to the Project Directory  
+Move into the downloaded project folder using:  
+```bash
+cd SMS-Call-Bomber
+```
+☑️ Now you're inside the **project directory**.  
+
+### 🚀 Step 6: Run the SMS-Call-Bomber  
 Once everything is set up, execute the script using:  
 ```bash
-python3 Sms_Call_Bomber
+python3 sms_bomber.py
 ```
 
 ### 📞 How to Enter Phone Numbers  
@@ -84,10 +92,24 @@ pip install requests
 ```
 ☑️ این دستور **کتابخانه requests** را برای پایتون نصب می‌کند.  
 
-### 🚀 مرحله ۴: اجرای SMS-Call-Bomber  
+### 📥 مرحله ۴: دانلود پروژه  
+برای دریافت فایل‌های پروژه، این دستور را اجرا کنید:  
+```bash
+git clone https://github.com/drsamii456/SMS-Call-Bomber.git
+```
+☑️ این دستور پروژه را روی سرور شما **دانلود** می‌کند.  
+
+### 📂 مرحله ۵: ورود به پوشه پروژه  
+پس از دانلود، با این دستور وارد پوشه پروژه شوید:  
+```bash
+cd SMS-Call-Bomber
+```
+☑️ اکنون شما داخل **پوشه پروژه** هستید.  
+
+### 🚀 مرحله ۶: اجرای SMS-Call-Bomber  
 پس از نصب پیش‌نیازها، می‌توانید برنامه را اجرا کنید:  
 ```bash
-python3 Sms_Call_Bomber
+python3 sms_bomber.py
 ```
 
 ### 📞 نحوه وارد کردن شماره‌ها  
